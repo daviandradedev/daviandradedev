@@ -1,11 +1,12 @@
-# 🌟 Bem-vindo ao Meu GitHub | Welcome to My GitHub! 🌟
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=11d8d3&center=true&vCenter=true&lines=%F0%9F%8C%9F+Bem-vindo+ao+meu+GitHub!+%F0%9F%8C%9F;%F0%9F%8C%9F+Welcome+to+my+GitHub!+%F0%9F%8C%9F" />
+</p>
 
 <div align="center">
   <a href="#pt-br">🇧🇷 Português</a> | <a href="#en">🇬🇧 English</a>
 </div>
 
 ---
-
 ## 📌 Sobre Mim | About Me
 <div id="pt-br">
 Olá! Sou um desenvolvedor Full Stack com experiência em front-end e back-end, tendo atuado em projetos de modernização de sistemas no Tribunal de Contas da Paraíba (TCE-PB) e na Máxima Soluções. No front-end, trabalhei com Angular, TypeScript, HTML, CSS, Bootstrap e Ag-Grid, desenvolvendo interfaces responsivas e dinâmicas, além de integrar soluções em WordPress e PHP. Utilizei Figma para a criação de wireframes e aprimoramento da experiência do usuário. No back-end, foquei em Laravel e PHP, garantindo a performance e segurança dos sistemas, utilizando GitLab e Redmine para versionamento e gerenciamento de tarefas. Também tive experiência com DBeaver para administração de bancos de dados e Postman para testes de API. Com forte domínio de Git, GitLab e Bitbucket, sempre segui boas práticas de desenvolvimento e segurança, garantindo a entrega de soluções escaláveis e eficientes.🚀
@@ -19,7 +20,6 @@ Hello! I am a Full Stack developer with experience in both front-end and back-en
 </div>
 
 ---
-
 ## 🛠️ Minhas Skills | My Skills
 <div align="center">
 
@@ -69,7 +69,6 @@ Hello! I am a Full Stack developer with experience in both front-end and back-en
 🔹 **[Projeto 3](#)** - Descrição breve do projeto.  
 -->
 ---
-
 ## 📈 Estatísticas do GitHub | GitHub Stats
 
 <div align="center">
@@ -78,7 +77,6 @@ Hello! I am a Full Stack developer with experience in both front-end and back-en
 </div>
 
 ---
-
 ## 📬 Contato | Contact
 
 📧 [EMAIL](mailto:daviandrade.dev@gmail.com)
@@ -86,6 +84,5 @@ Hello! I am a Full Stack developer with experience in both front-end and back-en
 <!-- 🌎 **Portfólio:** [seuportfólio.com](https://seuportfólio.com)  -->
 
 ---
-
 ⭐️ **Se gostou do meu perfil, não esqueça de deixar um star nos meus repositórios!** 🚀  
 ⭐️ **If you liked my profile, don't forget to star my repositories!** 🚀
